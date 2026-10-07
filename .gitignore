@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Build output
+/IlKingDelleCartes
+*.dSYM
+
+# Editor
+.vscode/
+
+# Old submission readme (contains student IDs)
+README.txt
